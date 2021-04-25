@@ -1,7 +1,7 @@
 # vue-test
 
 It's only test for vue.js project with branch for version with implementation Vue I18n (lang)
-1. change
+change added
 ## Project setup
 ```
 npm install
